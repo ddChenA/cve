@@ -1,4 +1,4 @@
-## Clinic's Patient Management System has SQL injection vulnerability
+## Clinic's patient management system has CSRF vulnerability
 ## supplier
 https://www.sourcecodester.com/php-clinics-patient-management-system-source-code
 ## Vulnerability file
